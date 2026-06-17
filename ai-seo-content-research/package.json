@@ -1,0 +1,21 @@
+{
+  "name": "ai-seo-content-research",
+  "version": "1.0.0",
+  "description": "Research project analyzing AI-powered SEO content production strategies from SEO experts",
+  "main": "scripts/youtube-transcript-fetcher.js",
+  "scripts": {
+    "fetch-transcript": "node scripts/youtube-transcript-fetcher.js"
+  },
+  "keywords": [
+    "seo",
+    "ai",
+    "content-production",
+    "youtube-transcripts",
+    "research"
+  ],
+  "author": "Perciyal Dhayalan",
+  "dependencies": {
+    "youtube-transcript": "^1.2.1",
+    "fs-extra": "^11.2.0"
+  }
+}
