@@ -83,6 +83,14 @@ Indig converges with the group's "measurement breakdown" theme (Observation 16) 
 
 On AI content production specifically, Kevin Indig's practitioner guidance closely echoes Observation 4 (human review, editing, domain expertise) but adds operational specificity: he describes working prompts as typically 500–800 words long, paired with a company-specific data source (product data, proprietary datasets, or examples of "what good looks like"), and warns against two concrete failure modes — lazy one-sentence prompting, and publishing AI content too fast for a domain's "authority" to support (citing 1–3% weekly page growth as sustainable versus 50% weekly growth as risky). This is the most concrete, numbers-based operational guidance on AI content pacing offered by any expert in this research so far, and reinforces Observation 6 (solving user problems over keyword targeting) via his "best in the world" content bar heuristic.
 
+## Observation 21
+
+A seventh distinct angle has emerged with Lily Ray: long-term SEO risk management and authenticity signals. Where Brian Dean focuses on content systems, Mike King on AI retrieval mechanics, Neil Patel on AI traffic measurement, Rand Fishkin on brand visibility research, Aleyda Solis on operational AI search workflows, and Kevin Indig on business growth impact, Lily Ray focuses on identifying patterns behind algorithmic penalties and why over-optimization repeatedly fails.
+
+## Observation 22
+
+Lily Ray reinforces the recurring theme that SEO tactics follow a cycle: a tactic becomes successful, spreads across the industry, becomes overused, and eventually becomes a ranking liability. Her perspective suggests that sustainable SEO is less about discovering the next exploit and more about avoiding patterns that search engines classify as manipulation.
+
 ## Future Research
 
 Continue evaluating whether any remaining experts offer additional measurement solutions or challenge Aleyda's prompt library framework or Indig's LLM-advertising-as-signal idea. Also watch for any expert who directly addresses how to prove ROI on AI search optimization to decision makers — a gap Aleyda acknowledges but does not fully resolve, and which Indig's "qualified but lower-volume traffic" framing also leaves open from a different angle.

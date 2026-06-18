@@ -71,8 +71,7 @@ ${text}
 // Example
 
 fetchTranscript(
-    "gFqNOCWbF-4",
-    "kevin-indig",
+    "2htSIT0HLjs",
+    "lily-ray",
     "video-1"
 );
-

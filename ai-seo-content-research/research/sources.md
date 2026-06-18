@@ -73,7 +73,6 @@ Rand Fishkin was selected because he conducted original empirical research with 
 - Marketing measurement in the AI era
 
 ---
-
 ### 5. Aleyda Solis
 
 **Role:** International SEO Consultant & Founder of Orainti
@@ -108,6 +107,35 @@ Kevin Indig was selected because he provides a growth-advisory perspective that 
 - AI content production pitfalls for resource-constrained startups
 - Long-form, data-paired prompt engineering for scalable content
 - Future of SEO as an engagement/visibility model rather than a traffic model
+
+### 7. Lily Ray
+
+**Role:** SEO Director & Founder of Amped — one of the most recognized voices
+in Google core update analysis and E-E-A-T strategy
+
+**Why Selected:**
+
+Lily Ray was selected because she provides the most historically grounded
+perspective in this research — nearly 10 years of hands-on core update analysis
+across hundreds of sites, combined with early and direct warnings about GEO
+manipulation risks. Her insights are drawn from real client recovery work,
+agency experience, and a consistent track record of identifying algorithm
+patterns before they become widely understood. She also brings rare visibility
+into how LLMs like Claude are already beginning to flag spammed categories,
+making her one of the first practitioners to observe GEO spam-awareness in
+the wild.
+
+**Research Focus:**
+
+- Google core update patterns and site recovery frameworks
+- E-E-A-T as a cross-platform authority and trust signal
+- Generative Engine Optimization (GEO) risks and early manipulation patterns
+- Self-promotional listicles and their diminishing returns in LLM citations
+- Programmatic SEO viability and spam thresholds
+- Content bloat identification and removal as a pre-recovery priority
+- Google Discover optimization and clickbait risk thresholds
+- Long-term brand authority building versus short-term traffic tactics
+- AI-generated content policies and Google's enforcement trajectory
 
 
 ## Research Methodology
