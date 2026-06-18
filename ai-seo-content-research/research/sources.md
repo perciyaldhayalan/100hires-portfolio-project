@@ -74,6 +74,23 @@ Rand Fishkin was selected because he conducted original empirical research with 
 
 ---
 
+### 5. Aleyda Solis
+
+**Role:** International SEO Consultant & Founder of Orainti
+
+**Why Selected:**
+
+Aleyda Solis was selected because she provides the most operationally structured framework in this research — a 10-step AI search content optimization checklist covering everything from crawlability and chunk-level retrieval to topical authority and citation worthiness. Her approach is grounded in a 211-response survey of experienced SEO specialists, making it more independently validated than individual client cases or platform-published guidance.
+
+**Research Focus:**
+
+- AI search optimization frameworks and checklists
+- Technical crawlability and JavaScript rendering for AI bots
+- Chunk-level content structuring for LLM retrieval
+- Topical authority and full customer journey coverage
+- AI search measurement tools and visibility monitoring
+
+
 ## Research Methodology
 
 Data collected from:

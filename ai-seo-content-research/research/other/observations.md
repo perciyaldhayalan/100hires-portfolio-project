@@ -51,6 +51,23 @@ Rand Fishkin is the first expert in this research to explicitly reverse his own 
 
 Across all four experts, a consistent theme is emerging around measurement failure. Brian Dean shifted focus from rankings to traffic quality, Mike King critiques Google's own guidance as unreliable, Neil Patel acknowledges AI traffic is largely invisible in analytics dashboards, and Rand Fishkin argues that click attribution is dead and measurement has reverted to brand-era time-series thinking. All four are pointing at the same underlying problem from different directions.
 
+## Observation 13
+
+A fifth distinct angle has emerged with Aleyda Solis: structured, checklist-driven AI search optimization grounded in survey data. Where Brian Dean focuses on content and promotion strategy, Mike King on technical AI retrieval mechanics, Neil Patel on conversion data from agency clients, and Rand Fishkin on empirical brand visibility measurement, Aleyda Solis brings a practitioner's operational roadmap — a 10-step framework that translates AI search theory into auditable, sequential actions. Her approach is notable for being validated against a 211-response survey of experienced SEO specialists rather than individual client cases or platform-published guidance.
+
+## Observation 14
+
+Aleyda Solis is the first expert in this research to explicitly address the input layer of AI search measurement. While Rand Fishkin identified that click attribution is broken and measurement has shifted, Aleyda goes one step further — arguing that even the prompts used to measure AI visibility are wrong in most teams, making all downstream data unreliable. Her AI search prompt library framework (June 8, 2026) is the most concrete measurement solution offered by any expert so far, directly addressing the future research question raised after Observation 12.
+
+## Observation 15
+
+Aleyda Solis and Mike King converge on the same technical finding — AI crawlers cannot render JavaScript — but arrive at it from different directions. Mike King raises it as evidence that SEO tools are fundamentally behind how search works. Aleyda raises it as a specific audit step every practitioner must run. This confirms the finding is not theoretical: it is a real, commonly missed technical gap with direct consequences for AI visibility.
+
+## Observation 16
+
+Across all five experts, the measurement breakdown theme holds and deepens with each addition. Brian Dean shifted focus from rankings to traffic quality. Mike King critiques Google's guidance as unreliable. Neil Patel acknowledges AI traffic is largely invisible in analytics. Rand Fishkin argues click attribution is dead. Aleyda Solis identifies that even the prompts used to measure AI visibility are typically unrepresentative. Each expert has identified a different layer of the same underlying measurement failure — and Aleyda is the first to offer a structured fix rather than only naming the problem.
+
 ## Future Research
 
-Continue evaluating whether the measurement breakdown theme holds across remaining experts, and look for any expert who offers a concrete, reliable measurement solution rather than just identifying the problem.
+Continue evaluating whether any remaining experts offer additional measurement solutions or challenge Aleyda's prompt library framework. Also watch for any expert who directly addresses how to prove ROI on AI search optimization to decision makers — a gap Aleyda acknowledges but does not fully resolve.
+
