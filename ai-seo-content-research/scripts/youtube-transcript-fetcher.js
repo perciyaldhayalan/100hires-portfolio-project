@@ -71,7 +71,7 @@ ${text}
 // Example
 
 fetchTranscript(
-    "PbQ6-ZflaL0",
-    "cyrus-shepard",
+    "8cey3LA_1K0",
+    "andy crestodina",
     "video-1"
 );

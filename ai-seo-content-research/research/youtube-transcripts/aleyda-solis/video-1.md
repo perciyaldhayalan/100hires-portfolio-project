@@ -1,6 +1,6 @@
 ## Author
 
-aleyda-solis
+Aleyda-Solis
 
 
 ## Video Title

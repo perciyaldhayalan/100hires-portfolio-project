@@ -107,6 +107,14 @@ A new angle has emerged with Cyrus Shepard: SEO through content architecture and
 
 Cyrus Shepard reinforces that AI-powered SEO is not only about producing more content. Strong website structure, internal connections, and clear information organization help both traditional search engines and AI systems understand the relationship between topics.
 
+## Observation 27
+
+A new angle has emerged with Andy Crestodina: human-first content strategy in the AI search era. Where Brian Dean focuses on content systems, Mike King on AI retrieval mechanics, Neil Patel on AI traffic measurement, Rand Fishkin on AI visibility research, Aleyda Solis on AI search workflows, Kevin Indig on growth impact, Lily Ray on SEO risk management, Matt Diggity on AI search testing, and Cyrus Shepard on content architecture, Andy focuses on human expertise, content quality, and brand authority.
+
+## Observation 28
+
+Andy Crestodina reinforces that AI-powered SEO content production is not only about creating more content with AI tools. His perspective shows that successful content needs original experiences, personal viewpoints, and strong brand signals because AI systems can generate information but cannot replace human expertise and unique perspectives.
+
 ## Future Research
 
 Continue evaluating whether any remaining experts offer additional measurement solutions or challenge Aleyda's prompt library framework or Indig's LLM-advertising-as-signal idea. Also watch for any expert who directly addresses how to prove ROI on AI search optimization to decision makers — a gap Aleyda acknowledges but does not fully resolve, and which Indig's "qualified but lower-volume traffic" framing also leaves open from a different angle.

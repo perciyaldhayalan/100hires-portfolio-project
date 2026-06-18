@@ -159,7 +159,7 @@ He is known for SEO case studies, ranking experiments, and data-driven approache
 - Practical SEO testing frameworks
 - Combining traditional SEO with AI search strategies
 
-### 8. Cyrus Shepard
+### 9. Cyrus Shepard
 
 **Role:** SEO Consultant & Founder of Zyppy — former Head of SEO at Moz
 
@@ -177,6 +177,27 @@ His approach is relevant to AI-powered SEO content production because AI systems
 - Search ranking factors and algorithm analysis
 - Improving content discoverability
 - Technical SEO foundations for AI search visibility
+
+### 10. Andy Crestodina
+
+**Role:** Co-Founder & CMO of Orbit Media Studios
+
+**Why Selected:**
+
+Andy Crestodina was selected because he provides a content marketing and SEO perspective focused on creating valuable content, understanding audiences, improving website performance, and adapting content strategies for the AI search era.
+
+His work combines SEO, content strategy, analytics, and conversion optimization. His approach is relevant to AI-powered SEO content production because he emphasizes that AI should improve content quality and research processes while keeping human expertise and original insights important.
+
+**Research Focus:**
+
+- AI-powered content strategy
+- Content quality and originality
+- SEO and website optimization
+- Audience research and search intent
+- Using AI tools for content improvement
+- Analytics-driven content decisions
+- Conversion-focused SEO
+- Building trust and authority through content
 
 ## Research Methodology
 
