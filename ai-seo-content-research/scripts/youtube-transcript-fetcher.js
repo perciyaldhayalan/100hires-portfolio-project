@@ -71,8 +71,8 @@ ${text}
 // Example
 
 fetchTranscript(
-    "BjyF_4UhoOM",
-    "aleyda-solis",
+    "gFqNOCWbF-4",
+    "kevin-indig",
     "video-1"
 );
 

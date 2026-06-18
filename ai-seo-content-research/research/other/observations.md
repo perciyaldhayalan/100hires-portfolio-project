@@ -67,7 +67,24 @@ Aleyda Solis and Mike King converge on the same technical finding — AI crawler
 
 Across all five experts, the measurement breakdown theme holds and deepens with each addition. Brian Dean shifted focus from rankings to traffic quality. Mike King critiques Google's guidance as unreliable. Neil Patel acknowledges AI traffic is largely invisible in analytics. Rand Fishkin argues click attribution is dead. Aleyda Solis identifies that even the prompts used to measure AI visibility are typically unrepresentative. Each expert has identified a different layer of the same underlying measurement failure — and Aleyda is the first to offer a structured fix rather than only naming the problem.
 
+## Observation 17
+
+A sixth distinct angle has emerged with Kevin Indig: a growth-advisory perspective grounded in in-house experience (Atlassian, Reddit, Shopify, G2) rather than agency or independent-research positioning. Where the prior five experts approach AI search from content strategy, technical retrieval mechanics, conversion data, empirical brand measurement, or operational checklists, Indig frames the shift in business terms — search becoming an "engagement model" rather than a "traffic model," with lower click volume but higher-intent visitors. This is the first expert in this research to explicitly reframe the AI search shift around revised business expectations rather than tactics or measurement tools.
+
+## Observation 18
+
+Kevin Indig adds a structural angle not yet covered by the other five experts: e-commerce-specific disruption. He observes that Google Shopping is displaying products directly in search results rather than linking out, effectively making Google "the new category page" for e-commerce. This shifts SEO focus from optimizing category pages to optimizing product pages — a vertical-specific consequence of AI-driven search changes that complements but does not overlap with Neil Patel's broader conversion-data angle.
+
+## Observation 19
+
+Indig converges with the group's "measurement breakdown" theme (Observation 16) from yet another direction: he argues that reduced on-site traffic means companies lose behavioral signal about user interest and intent, and that this signal may need to be recovered through advertising on LLM platforms (e.g., Perplexity's CPM-based ads) rather than through traditional analytics. This is a forward-looking variant of the same problem Rand Fishkin and Aleyda Solis identified — but Indig's proposed substitute (ad-platform data) is a different mechanism than Fishkin's brand-presence tracking or Solis's prompt-library framework.
+
+## Observation 20
+
+On AI content production specifically, Kevin Indig's practitioner guidance closely echoes Observation 4 (human review, editing, domain expertise) but adds operational specificity: he describes working prompts as typically 500–800 words long, paired with a company-specific data source (product data, proprietary datasets, or examples of "what good looks like"), and warns against two concrete failure modes — lazy one-sentence prompting, and publishing AI content too fast for a domain's "authority" to support (citing 1–3% weekly page growth as sustainable versus 50% weekly growth as risky). This is the most concrete, numbers-based operational guidance on AI content pacing offered by any expert in this research so far, and reinforces Observation 6 (solving user problems over keyword targeting) via his "best in the world" content bar heuristic.
+
 ## Future Research
 
-Continue evaluating whether any remaining experts offer additional measurement solutions or challenge Aleyda's prompt library framework. Also watch for any expert who directly addresses how to prove ROI on AI search optimization to decision makers — a gap Aleyda acknowledges but does not fully resolve.
+Continue evaluating whether any remaining experts offer additional measurement solutions or challenge Aleyda's prompt library framework or Indig's LLM-advertising-as-signal idea. Also watch for any expert who directly addresses how to prove ROI on AI search optimization to decision makers — a gap Aleyda acknowledges but does not fully resolve, and which Indig's "qualified but lower-volume traffic" framing also leaves open from a different angle.
+
 

@@ -91,6 +91,25 @@ Aleyda Solis was selected because she provides the most operationally structured
 - AI search measurement tools and visibility monitoring
 
 
+### 6. Kevin Indig
+
+**Role:** Growth Adviser (SEO & Product-Led Growth) — works with SaaS companies, marketplaces, and large e-commerce businesses; former in-house leader at Atlassian, Reddit, Shopify, and G2
+
+**Why Selected:**
+
+Kevin Indig was selected because he provides a growth-advisory perspective that bridges in-house and consulting experience across both SaaS and e-commerce. His commentary addresses how AI overviews and AI chatbots are reshaping click-through behavior, how Google Shopping is restructuring e-commerce SEO, and how startups specifically should approach AI-assisted content production under resource constraints.
+
+**Research Focus:**
+
+- AI overviews and the shift from click-based to engagement-based search
+- Google Shopping's impact on e-commerce SEO (category page to product page shift)
+- Rise of non-commercial/forum content (Reddit, Quora) in search results
+- Google core algorithm update risk mitigation (technical hygiene, content decay, engagement)
+- AI content production pitfalls for resource-constrained startups
+- Long-form, data-paired prompt engineering for scalable content
+- Future of SEO as an engagement/visibility model rather than a traffic model
+
+
 ## Research Methodology
 
 Data collected from:

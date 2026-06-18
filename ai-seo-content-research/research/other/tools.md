@@ -67,3 +67,9 @@ Referenced by Aleyda Solis as a dashboard tool for analyzing AI-driven traffic a
 
 Purpose:
 Referenced by Aleyda Solis as a site crawler for auditing JavaScript dependency — identifying which content and links rely on client-side JavaScript rendering and would therefore be invisible to AI crawlers. Also noted by Aleyda for its v24.0 MCP (Model Context Protocol) server integration, which allows AI tools to trigger crawls and retrieve data directly without manual CSV exports.
+
+## Notion
+
+Purpose:
+Referenced by Kevin Indig as his primary personal knowledge-management tool — used to store meeting notes, manage tasks, and maintain a library of notes from podcasts, events, articles, and work templates. Included in the research as a practitioner-workflow tool rather than an SEO-specific platform, illustrating how advisers organize research and client work alongside their technical SEO toolset.
+
