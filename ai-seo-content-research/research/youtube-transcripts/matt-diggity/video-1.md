@@ -1,6 +1,6 @@
 ## Author
 
-matt-diggity
+Matt Diggity
 
 
 ## Video Title

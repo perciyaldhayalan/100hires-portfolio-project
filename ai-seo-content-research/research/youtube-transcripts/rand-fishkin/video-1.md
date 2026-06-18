@@ -1,6 +1,6 @@
 ## Author
 
-rand-fishkin
+Rand Fishkin
 
 ## Video Title
 Near Memo: AI Visibility vs Google Ranking (2026 Predictions)

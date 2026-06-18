@@ -1,6 +1,6 @@
 ## Author
 
-cyrus-shepard
+Cyrus Shepard
 
 
 ## Video Title
