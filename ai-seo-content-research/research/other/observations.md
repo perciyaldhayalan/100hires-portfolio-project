@@ -27,8 +27,6 @@ Mike King is openly skeptical of platform-published SEO guidance (e.g. his criti
 ## Observation 6
 Successful SEO content focuses on solving user problems instead of only targeting keywords — this holds true across both the content-strategy and technical-AI approaches.
 
-## Future Research
-Analyze more experts to identify common AI SEO workflows, and look for additional contrast points between content-first and systems-first approaches.
 ## Observation 7
 
 A third distinct angle has emerged with Neil Patel: data-driven AI visibility and conversion tracking. Where Brian Dean focuses on content/promotion strategy and Mike King focuses on the technical mechanics of AI retrieval, Neil Patel focuses on measurable business outcomes — using his agency's own data to show how AI-driven traffic converts and what content structures get cited by AI tools.
@@ -41,6 +39,18 @@ Despite different angles, Brian Dean, Mike King, and Neil Patel converge on one 
 
 Neil Patel's content stands out for relying heavily on internal agency statistics (NP Digital's own studies) rather than third-party or independently verified data. This is useful as a practitioner's real-world perspective, but worth noting as a limitation when comparing claims across experts — his numbers haven't been cross-verified the way Mike King's claims (drawn partly from leaked Google documents and DOJ trial materials) have been.
 
+## Observation 10
+
+A fourth distinct angle has emerged with Rand Fishkin: empirical measurement of AI brand visibility. Where Brian Dean focuses on content and promotion strategy, Mike King on technical AI retrieval mechanics, and Neil Patel on conversion data from agency clients, Rand Fishkin brings original primary research — testing whether AI brand presence can be tracked statistically across models. His conclusion is that presence rate (how often a brand appears) is trackable, but rank position is not.
+
+## Observation 11
+
+Rand Fishkin is the first expert in this research to explicitly reverse his own long-held advice. His "don't build on rented land" position — held for 20 years — has been publicly abandoned in favor of the opposite: brands must now build presence on platforms they don't own. This is a significant signal that even foundational SEO principles are being reconsidered in the AI era.
+
+## Observation 12
+
+Across all four experts, a consistent theme is emerging around measurement failure. Brian Dean shifted focus from rankings to traffic quality, Mike King critiques Google's own guidance as unreliable, Neil Patel acknowledges AI traffic is largely invisible in analytics dashboards, and Rand Fishkin argues that click attribution is dead and measurement has reverted to brand-era time-series thinking. All four are pointing at the same underlying problem from different directions.
+
 ## Future Research
 
-Continue evaluating whether the "AI visibility over traditional rankings" theme holds across the remaining experts, and look for cases where experts disagree rather than converge.
+Continue evaluating whether the measurement breakdown theme holds across remaining experts, and look for any expert who offers a concrete, reliable measurement solution rather than just identifying the problem.

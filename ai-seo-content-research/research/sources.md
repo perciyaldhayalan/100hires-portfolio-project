@@ -40,6 +40,39 @@ Mike King provides a technical perspective on modern search systems, AI Overview
 - AI retrieval systems
 
 ---
+### 3. Neil Patel
+
+**Role:** Co-Founder, NP Digital
+
+**Why Selected:**
+
+Neil Patel was selected because he provides agency-level data on how AI tools like ChatGPT, Gemini, and Perplexity are driving high-converting traffic, and what brands need to change to be cited inside AI-generated answers.
+
+**Research Focus:**
+
+- AI-driven traffic and conversion data
+- Generative Engine Optimization (GEO)
+- Content structuring for AI extraction
+- AI visibility metrics
+
+---
+
+### 4. Rand Fishkin
+
+**Role:** Founder, SparkToro & Co-Founder, Snackbar Studio
+
+**Why Selected:**
+
+Rand Fishkin was selected because he conducted original empirical research with 600 volunteers testing AI brand visibility tracking across ChatGPT, Claude, and Google AI — directly relevant to how AI SEO visibility should be measured and acted on.
+
+**Research Focus:**
+
+- AI brand visibility tracking and measurement
+- Zero-click search and platform disintermediation
+- Audience research and channel selection
+- Marketing measurement in the AI era
+
+---
 
 ## Research Methodology
 
