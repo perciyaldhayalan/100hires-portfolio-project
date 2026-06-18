@@ -91,6 +91,15 @@ A seventh distinct angle has emerged with Lily Ray: long-term SEO risk managemen
 
 Lily Ray reinforces the recurring theme that SEO tactics follow a cycle: a tactic becomes successful, spreads across the industry, becomes overused, and eventually becomes a ranking liability. Her perspective suggests that sustainable SEO is less about discovering the next exploit and more about avoiding patterns that search engines classify as manipulation.
 
+## Observation 23
+
+A new angle has emerged with Matt Diggity: AI search optimization through practical testing and measurable results. Where Brian Dean focuses on content systems, Mike King on AI retrieval mechanics, Neil Patel on AI traffic measurement, Rand Fishkin on search visibility, Aleyda Solis on AI workflows, Kevin Indig on growth impact, and Lily Ray on long-term SEO risk management, Matt Diggity focuses on testing how websites can appear in Google AI Overviews and ChatGPT results.
+
+## Observation 24
+
+Matt Diggity reinforces the idea that AI SEO is an extension of traditional SEO fundamentals. His approach shows that clear content structure, direct answers, brand reputation, expert signals, and measurement are becoming important factors for visibility in AI-generated search results.
+
+
 ## Future Research
 
 Continue evaluating whether any remaining experts offer additional measurement solutions or challenge Aleyda's prompt library framework or Indig's LLM-advertising-as-signal idea. Also watch for any expert who directly addresses how to prove ROI on AI search optimization to decision makers — a gap Aleyda acknowledges but does not fully resolve, and which Indig's "qualified but lower-volume traffic" framing also leaves open from a different angle.

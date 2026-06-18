@@ -138,6 +138,27 @@ the wild.
 - AI-generated content policies and Google's enforcement trajectory
 
 
+### 8. Matt Diggity
+
+**Role:** SEO Entrepreneur, Founder of Diggity Marketing & SEO Lab
+
+**Why Selected:**
+
+Matt Diggity was selected because he provides a practical experimentation-based perspective on SEO and AI search optimization. His approach is focused on testing strategies on real websites and analyzing what actually improves visibility in Google AI Overviews and AI-driven search experiences.
+
+He is known for SEO case studies, ranking experiments, and data-driven approaches rather than only theoretical SEO advice. His research helps understand how traditional SEO principles like content quality, authority, and trust are adapting to AI-powered search systems.
+
+**Research Focus:**
+
+- AI search optimization experiments
+- Google AI Overviews visibility
+- Content structure for AI understanding
+- Brand authority and trust signals
+- Entity recognition and online reputation
+- AI-driven traffic measurement
+- Practical SEO testing frameworks
+- Combining traditional SEO with AI search strategies
+
 ## Research Methodology
 
 Data collected from:
