@@ -99,6 +99,13 @@ A new angle has emerged with Matt Diggity: AI search optimization through practi
 
 Matt Diggity reinforces the idea that AI SEO is an extension of traditional SEO fundamentals. His approach shows that clear content structure, direct answers, brand reputation, expert signals, and measurement are becoming important factors for visibility in AI-generated search results.
 
+## Observation 25
+
+A new angle has emerged with Cyrus Shepard: SEO through content architecture and information relationships. Where Brian Dean focuses on content systems, Mike King on AI retrieval mechanics, Neil Patel on AI traffic measurement, Rand Fishkin on visibility research, Aleyda Solis on AI workflows, Kevin Indig on growth impact, Lily Ray on SEO risk management, and Matt Diggity on AI search testing, Cyrus focuses on how websites organize and connect information.
+
+## Observation 26
+
+Cyrus Shepard reinforces that AI-powered SEO is not only about producing more content. Strong website structure, internal connections, and clear information organization help both traditional search engines and AI systems understand the relationship between topics.
 
 ## Future Research
 

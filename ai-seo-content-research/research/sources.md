@@ -159,6 +159,25 @@ He is known for SEO case studies, ranking experiments, and data-driven approache
 - Practical SEO testing frameworks
 - Combining traditional SEO with AI search strategies
 
+### 8. Cyrus Shepard
+
+**Role:** SEO Consultant & Founder of Zyppy — former Head of SEO at Moz
+
+**Why Selected:**
+
+Cyrus Shepard was selected because he provides a research-driven technical SEO perspective focused on how search engines understand websites, content relationships, and user experience. His work includes large-scale SEO experiments, internal linking research, and analysis of Google's ranking systems.
+
+His approach is relevant to AI-powered SEO content production because AI systems also depend on clear content structure, topic relationships, and well-organized information to understand and retrieve content.
+
+**Research Focus:**
+
+- Internal linking strategies and website architecture
+- Content structure and information organization
+- SEO experiments and data-driven decision making
+- Search ranking factors and algorithm analysis
+- Improving content discoverability
+- Technical SEO foundations for AI search visibility
+
 ## Research Methodology
 
 Data collected from:
