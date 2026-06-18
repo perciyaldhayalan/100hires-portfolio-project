@@ -33,6 +33,11 @@ Code editor used to build the project structure, edit files, and run terminal co
 Purpose:
 Used for planning research direction, choosing experts, drafting documentation, and troubleshooting project structure issues.
 
+## Web Search / Verification
+
+Purpose:
+Used to verify that YouTube videos and LinkedIn posts are authentic and correctly attributed before including them in research, and to cross-check factual claims made by experts against other public sources.
+
 ## Markdown
 
 Purpose:

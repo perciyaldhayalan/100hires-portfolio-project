@@ -29,3 +29,18 @@ Successful SEO content focuses on solving user problems instead of only targetin
 
 ## Future Research
 Analyze more experts to identify common AI SEO workflows, and look for additional contrast points between content-first and systems-first approaches.
+## Observation 7
+
+A third distinct angle has emerged with Neil Patel: data-driven AI visibility and conversion tracking. Where Brian Dean focuses on content/promotion strategy and Mike King focuses on the technical mechanics of AI retrieval, Neil Patel focuses on measurable business outcomes — using his agency's own data to show how AI-driven traffic converts and what content structures get cited by AI tools.
+
+## Observation 8
+
+Despite different angles, Brian Dean, Mike King, and Neil Patel converge on one shared idea: visibility now matters more in the form of being referenced, cited, or recommended than in traditional click-through traffic or keyword rankings. Brian Dean approaches this through promotion and outreach, Mike King through technical relevance engineering, and Neil Patel through content formatting and AI-citation metrics.
+
+## Observation 9
+
+Neil Patel's content stands out for relying heavily on internal agency statistics (NP Digital's own studies) rather than third-party or independently verified data. This is useful as a practitioner's real-world perspective, but worth noting as a limitation when comparing claims across experts — his numbers haven't been cross-verified the way Mike King's claims (drawn partly from leaked Google documents and DOJ trial materials) have been.
+
+## Future Research
+
+Continue evaluating whether the "AI visibility over traditional rankings" theme holds across the remaining experts, and look for cases where experts disagree rather than converge.
